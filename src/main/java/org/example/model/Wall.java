@@ -12,6 +12,6 @@ public class Wall {
     }
 
     public void create(){
-        System.out.println("Wall has been built");
+        System.out.println("Wall has been built.");
     }
 }

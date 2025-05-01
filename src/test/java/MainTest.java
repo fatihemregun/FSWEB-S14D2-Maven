@@ -4,6 +4,13 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.example.model.Bed;
+import org.example.model.Lamp;
+import org.example.model.Wardrobe;
+import org.example.model.Carpet;
+import org.example.model.Bedroom;
+import org.example.model.Wall;
+import org.example.model.Ceiling;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

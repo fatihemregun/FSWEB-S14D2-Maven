@@ -14,7 +14,7 @@ public class Lamp {
     }
 
     public void turnOn(){
-        System.out.println("Lamp is being turned on");
+        System.out.println("Lamp is being turned on.");
     }
 
     public LampType getStyle(){

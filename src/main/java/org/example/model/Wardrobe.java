@@ -24,6 +24,6 @@ public class Wardrobe {
     }
 
     public void add(){
-        System.out.println("Wardrobe added into Bedroom");
+        System.out.println("Wardrobe added into Bedroom.");
     }
 }

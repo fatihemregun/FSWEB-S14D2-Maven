@@ -20,6 +20,6 @@ public class Ceiling {
     }
 
     public void create(){
-        System.out.println("Ceiling has been built");
+        System.out.println("Ceiling has been built.");
     }
 }
